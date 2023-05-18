@@ -1,0 +1,13 @@
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+}
+
+h3{
+  text-align: center;
+}
+
+Button{
+  margin: 10px 15px;
+}
